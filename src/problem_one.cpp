@@ -1,7 +1,6 @@
 #include <iostream>
 #include <omp.h>
 #include <chrono>
-#include <ctime>
 
 // Defining constants
 #define N 10000          // Matrix size
