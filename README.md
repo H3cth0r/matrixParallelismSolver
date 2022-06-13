@@ -7,3 +7,8 @@ of the solution.
 ```
 g++ -fopenmp main.cpp -o main
 ```
+
+
+https://user-images.githubusercontent.com/43997408/173421848-e57dee70-829e-4ed6-9b65-f3d8d6f845b0.mp4
+
+
